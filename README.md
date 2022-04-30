@@ -1,4 +1,26 @@
 
+##
+
+<h1 align="center">
+Banking Operation
+</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ </p>
+
+![alt-text](https://github.com/LeonardoLamoia/ControleSuasFinancas/blob/main/gofinance.gif)
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Javascript
+- Express
+- 
+  </ul>
+  
 
 ## Requisitos
 
