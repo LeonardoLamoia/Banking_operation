@@ -7,7 +7,7 @@ Banking Operation
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
 
 
@@ -17,11 +17,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Javascript
 - Express
-
+- 
   </ul>
   
 
-## Requisitos
+## ✅ Requisitos
 
 - [x] Deve ser possível criar uma conta
 - [x] Deve ser possível buscar o extrato bancário do cliente
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## Regras de negócio
+## ‼ Regras de negócio
 
 - [x] Náo deve ser possível cadastrar uma conta com CPF já existente
 - [x] Não deve ser possível buscar extrato em uma conta não existente
