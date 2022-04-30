@@ -10,7 +10,6 @@ Banking Operation
   <a href="#-projeto">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
 
-![alt-text](https://github.com/LeonardoLamoia/ControleSuasFinancas/blob/main/gofinance.gif)
 
 ## 🚀 Tecnologias
 
