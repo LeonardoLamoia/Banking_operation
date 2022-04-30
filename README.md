@@ -17,7 +17,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Javascript
 - Express
-- 
   </ul>
   
 
